@@ -11,3 +11,16 @@ Set Up:
 9. app -> src -> main -> java -> MainActivity is the java file I created
 10. app -> src -> main -> res -> layout -> activity_main.xml is the xml file I created
 11. The APK for this project is in the Github repository: app -> build -> outputs -> apk
+
+Instructions for App:
+
+-Input the URL that the app will summarize
+-Input the amount of sentences the app will summarize the URL link's content into
+-Push the Summarize button to obtain a working link to the article and textview of the summary of the article
+-Push reset to empty all of the textviews and edittexts
+
+App Abilities/Bonuses:
+
+-Uses an online API, Intellexer, to do the summarizations (http://esapi.intellexer.com/Home/Help).
+-Bonus from the API: summarizes the content with an amount of sentences set as a constant, I edited the API call so that the user can decide how many sentences the API summarizes the content down to.
+-Created a SharedPreference in order to save and restore the data whenever the orientation of the app changes or when the back button on the android is pushed
