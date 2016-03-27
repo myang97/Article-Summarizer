@@ -19,8 +19,8 @@ Instructions for App:
 -Push the Summarize button to obtain a working link to the article and textview of the summary of the article
 -Push reset to empty all of the textviews and edittexts
 
-![](/Screenshots/Reset and Initial Screen.jpg?raw=true =50X10)
-![](/Screenshots/URL Link and Summary Screen.jpg?raw=true =50X10)
+![](/Screenshots/Reset and Initial Screen.jpg?raw=true =20X10)
+![](/Screenshots/URL Link and Summary Screen.jpg?raw=true =20X10)
 
 App Abilities/Bonuses:
 
