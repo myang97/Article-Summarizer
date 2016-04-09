@@ -23,6 +23,10 @@ App Abilities/Bonuses:
 -Bonus from the API: summarizes the content with an amount of sentences set as a constant, I edited the API call so that the user can decide how many sentences the API summarizes the content down to.
 -Created a SharedPreference in order to save and restore the data whenever the orientation of the app changes or when the back button on the android is pushed
 
+Future Changes:
+-Add tags after obtaining the article
+-Add information regarding the author and date published
+
 
 ![](/Screenshots/Reset and Initial Screen.jpg?raw=true =20X10)
 ![](/Screenshots/URL Link and Summary Screen.jpg?raw=true =20X10)
